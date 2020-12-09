@@ -1,0 +1,13 @@
+/*扫码工具下载*/
+.QRcodeCenter{width: 360px;height: 160px;margin-left:10px;}
+.QRcodeFather{width: 160px;height: 160px;float: left;}
+.QRcodeImg{width: 120px;height: 120px;border: 1px solid #ccc;margin:0 auto;margin-top:19px;}
+.QRcodeImg img{width: 100%;height: 100%;}
+.Download{width: 200px;height: 136px;float: left;padding-top: 24px;}
+.DownloadButton{width: 200px;height:109.5px;padding-top: 10.5px}
+.androidBtn{width: 114px;line-height: 35px;text-align: center;margin-bottom: 15px;border-radius: 8px;display: block;background-image:url("/resource/ceb/images/iPhone.png");background-position:32px center;background-repeat: no-repeat;background-size: 25px 25px;padding-left: 34px;margin-left: 10px;}
+.IosBtn{width: 107px;line-height: 35px;text-align: center;border-radius: 8px;display: block;margin-top: 15px;background-image:url("/resource/ceb/images/Android.png");background-position: 32px center;background-repeat: no-repeat;background-size: 25px 25px;padding-left: 41px;margin-left: 10px;}
+.DownloadButton a{color: #00b7ee;border:1px solid #00b7ee; text-decoration:none;font-size: 16px;}
+.DownloadButton a:hover{text-decoration:underline;}
+.clearfix:after { content: " "; display: block; height: 0; clear: both; visibility: hidden;  }  
+.clearfix {zoom:1;}  /* for IE/Mac */  
